@@ -52,13 +52,13 @@ The script for the analysis is: [PyBer_Challenge](https://github.com/manasidek/P
 
 - After performing analysis of different data sets a final dataset was created (Ride_Sharing_Data) which gave the following conclusions:
 
-1. Total no. of rides are 13 and 5 times higher in Urban and Suburban areas respectively as compared to Rural areas.
+  1. Total no. of rides are 13 and 5 times higher in Urban and Suburban areas respectively as compared to Rural areas.
 
-2. Total no. of drivers are 30 and 6 times higher in Urban and Suburban areas respectively as compared to Rural areas.
+  2. Total no. of drivers are 30 and 6 times higher in Urban and Suburban areas respectively as compared to Rural areas.
 
-3. Total fare is 9 and 4 times higher in Urban and Suburban areas respectively as compared to Rural areas.
+  3. Total fare is 9 and 4 times higher in Urban and Suburban areas respectively as compared to Rural areas.
 
-4. Average fare per ride and Average fare per driver is highest in Rural areas and lowest in the Urban area.
+  4. Average fare per ride and Average fare per driver is highest in Rural areas and lowest in the Urban area.
 
 - After analyzing the line chart showing fares by date, it can be observed that fares are maximum during the week of 02/11 - 02/17 across all city types.
 
