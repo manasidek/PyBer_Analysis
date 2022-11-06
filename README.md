@@ -9,14 +9,16 @@
 ## Resources
 
 -Data Source: 
-[City Data]()
-[Ride Data]()
+
+[City Data](https://github.com/manasidek/PyBer_Analysis/blob/main/Resources/city_data.csv)
+
+[Ride Data](https://github.com/manasidek/PyBer_Analysis/blob/main/Resources/ride_data.csv)
 
 - Software: Anaconda 22.9.0, Python 3.7.6, Jupyter Notebook 6.4.12
 
-## Results:
+## Results
 
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
+The script for the analysis is: [PyBer_Challenge](https://github.com/manasidek/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb)
 
 ### Step 1 of Analysis
 
@@ -24,11 +26,11 @@ There is a description of the differences in ride-sharing data among the differe
 
 - Using the above data extration calculate the average fare per ride and average fare per driver by city type. Further, create a PyBer summary DataFrame with all the data gathered.
 
-!(PyBer_join)[]
+!(PyBer_join)[https://github.com/manasidek/PyBer_Analysis/blob/main/images/PyBer_join.png]
 
 - Formating the above DataFrame to make it presentable
 
-!(Ride_Sharing_Data)[]
+!(Ride_Sharing_Data)[https://github.com/manasidek/PyBer_Analysis/blob/main/images/PyBer_total.png]
 
 
 ### Step 2 of Analysis
@@ -37,15 +39,15 @@ There is a description of the differences in ride-sharing data among the differe
 
 - The DataFrame is as follows:
 
-!(Multi_Indices)[]
+!(Multi_Indices)[https://github.com/manasidek/PyBer_Analysis/blob/main/images/Multi_indices.png]
 
 - Creating a resampled DataFrame, which looks like this:
 
-!(Resampled_Data)[]
+!(Resampled_Data)[https://github.com/manasidek/PyBer_Analysis/blob/main/images/Resampled_data.png]
 
 - Based on the above data a line chart is generated. 
 
-- The line chart link is (PyBer_fare_summary)[]
+- The line chart link is [PyBer_fare_summary](https://github.com/manasidek/PyBer_Analysis/blob/main/images/PyBer_fare_summary.png)
 
 ## Summary
 
