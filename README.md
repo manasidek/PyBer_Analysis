@@ -9,7 +9,7 @@
 ## Resources
 
 -Data Source:
-[City Data](https://github.com/manasidek/PyBer_Analysis/blob/main/Resources/city_data.csv)  Ride Data](https://github.com/manasidek/PyBer_Analysis/blob/main/Resources/ride_data.csv)
+[City Data](https://github.com/manasidek/PyBer_Analysis/blob/main/Resources/city_data.csv)  [Ride Data](https://github.com/manasidek/PyBer_Analysis/blob/main/Resources/ride_data.csv)
 
 - Software: Anaconda 22.9.0, Python 3.7.6, Jupyter Notebook 6.4.12
 
@@ -43,8 +43,6 @@ The script for the analysis is: [PyBer_Challenge](https://github.com/manasidek/P
 ![Resampled_Data](https://github.com/manasidek/PyBer_Analysis/blob/main/images/Resampled_data.png)
 
 - Based on the above data a line chart is generated. 
-
-- The line chart link is 
 
 ![PyBer_fare_summary](https://github.com/manasidek/PyBer_Analysis/blob/main/images/PyBer_fare_summary.png)
 
