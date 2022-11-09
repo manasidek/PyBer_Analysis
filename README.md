@@ -11,7 +11,7 @@
 - Data Sources:
 [City Data](https://github.com/manasidek/PyBer_Analysis/blob/main/Resources/city_data.csv) and [Ride Data](https://github.com/manasidek/PyBer_Analysis/blob/main/Resources/ride_data.csv)
 
-- Software: Anaconda 22.9.0, Python 3.7.6, Jupyter Notebook 6.4.12
+- Softwares: Anaconda 22.9.0, Python 3.7.6, Jupyter Notebook 6.4.12
 
 ## Results
 
